@@ -1,0 +1,14 @@
+*.py[cod]
+__pycache__/
+tags
+
+.venv/
+.site-packages/
+.mypy_cache/
+.pytest_cache/
+tmp/
+logs/
+
+*.sublime-workspace
+
+.vscode/
